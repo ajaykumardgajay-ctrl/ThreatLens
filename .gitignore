@@ -1,0 +1,23 @@
+# Python / Backend
+backend/.venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.env
+backend/.env
+*.db
+*.sqlite
+*.sqlite3
+
+# Frontend / Node
+frontend/node_modules/
+node_modules/
+frontend/dist/
+frontend/tsconfig.tsbuildinfo
+.vite/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
